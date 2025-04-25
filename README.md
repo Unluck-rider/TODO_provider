@@ -1,16 +1,5 @@
-# sathish_todo
+<img src="https://github.com/user-attachments/assets/0dd46970-18dd-451d-b9a1-07c1e20d89d6/home2" alt="home2" width="400" height="300" />
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Add_Note](https://github.com/user-attachments/assets/9099b8f4-2f6a-458f-855a-271207a2a02a)
+![Home](https://github.com/user-attachments/assets/8bb77b83-ec67-48ed-8e56-e63915323204)
+![reade](https://github.com/user-attachments/assets/2de05e82-5aa0-4d32-b30e-4da0d9837bf3)
